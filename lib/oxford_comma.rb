@@ -16,5 +16,6 @@ when array.length > 2
 array.slice(0,array.length-1).join(", ") + ", and " + array.slice(array.length-1,array.length-1).join
 end
 end
+#complete 
 
 
